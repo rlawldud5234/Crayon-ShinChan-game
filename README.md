@@ -15,4 +15,6 @@
 英語のタイピング練習とともに可愛いクレヨンしんちゃんまで！
 6歳のクレヨンしんちゃんを育ててみましょうか？
 
+## <div align="center">
 Design by JiYeong Kim
+</div>
